@@ -9,6 +9,8 @@ public class Test {
 		
 		//adadas
 		System.out.println("213313123");
+		
+		System.out.println("asdasd");
 	}
 
 }
